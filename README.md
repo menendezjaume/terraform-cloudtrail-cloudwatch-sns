@@ -14,7 +14,7 @@ A Terraform module that creates a multi-regional Trail, connects it with a Cloud
 
 Here is a simplified diagram of the infrastructure:
 
-![Diagram](./diagrams/security_alerts.png)
+![Diagram](./diagrams/AWS_CloudTrail_CloudWatch_SNS_Terraform_module.png)
 
 ## Terraform versions
 
